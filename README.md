@@ -19,3 +19,4 @@ How it Works??:
   - **JavaScript**: To make it interactive (adding and deleting tasks).  
 
 This project is simple, easy to use, and a great example of basic web development skills!
+
